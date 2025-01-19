@@ -1,6 +1,6 @@
 document.getElementById('unlockButton').addEventListener('click', function() {
     const combinationInput = document.getElementById('combination').value;
-    const correctCombination = '1234'; // Altere a combinação aqui
+    const correctCombination = '1256'; // Altere a combinação aqui
 
     const content = document.getElementById('content');
     const error = document.getElementById('error');
